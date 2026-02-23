@@ -56,5 +56,4 @@ Top 5 mobile models generate majority of revenue.
 Weekend sales are higher compared to weekdays.
 Higher-rated products show stronger sales performance.
 ## 📊 Dashboard Preview
-![Mobile_sales__Dashboard]
-(https://github.com/akashrajat07/Mobile_sales__Dashboard/blob/main/Dashboard_1.png)
+![Mobile_sales__Dashboard](Dashboard_1.png)
