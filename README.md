@@ -55,3 +55,4 @@ UPI is the most preferred payment method.
 Top 5 mobile models generate majority of revenue.
 Weekend sales are higher compared to weekdays.
 Higher-rated products show stronger sales performance.
+# Dashboard preview(https://github.com/akashrajat07/Mobile_sales__Dashboard/blob/main/Dashboard_1.png)
